@@ -34,8 +34,8 @@ print("Name:", name)
 # print("Age:", age)
 
 # # 3. Booleans: True or False values
-# hungry = False
-# print("Hungry:", hungry)
+hungry = False
+print("Hungry:", hungry)
 
 
 # # Example combining them all:
