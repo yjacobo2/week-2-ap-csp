@@ -21,6 +21,14 @@ print(500 + 55)
 # Find 3 objects around the room and create variables from it,
 # Insert those variables into an f-string sentence(look at slide 22)in repl.it
 
+soda = "pepsi"
+person = "isabrolla"
+thing = "enrichie"
+
+
+print (f" {person}     dfdf uiyuyujgugo8977866y77uyuyttygtgy+")
+
+
 
 # Familiarize yourself with the syntax of the print() function.
 # Print your name.
